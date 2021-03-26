@@ -1,1 +1,1 @@
-# This a repository to learn web-scrapping for beginner
+# A repository to learn web-scraping for beginner. 
